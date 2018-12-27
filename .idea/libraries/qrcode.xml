@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="qrcode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/qrcode.jar!/" />
+      <root url="jar://D:/Tomcat/apache-tomcat-9.0.1/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
